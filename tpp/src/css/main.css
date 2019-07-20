@@ -1,0 +1,31 @@
+body, html, #app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#app{
+    background-color: rgb(44, 44, 44);
+    color: #eeeeee;
+    overflow-y: auto;
+}
+
+#app .main{
+    padding: 1rem;
+}
+
+.aside{
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+
+
+
+@media only screen and (min-width: 1000px) {
+
+
+
+
+}
